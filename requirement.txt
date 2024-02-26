@@ -1,0 +1,6 @@
+openpyxl                  3.0.9                  
+python                    3.8.18          
+pytorch                   1.7.1          
+recbole                   1.0.1                
+tqdm                      4.66.1                 
+transformers              2.1.1                 
