@@ -1,0 +1,5 @@
+weight_decay choice [0,1e-3,1e-4]
+our_att_drop_out choice [0,.1,.2,.3,.4,.5,.6,.7,.8,.9]
+our_ae_drop_out choice [0,.1,.2,.3,.4,.5,.6,.7,.8,.9]
+sequence_last_m choice [1,2,3,4,5,6]
+reweight_loss_lambda choice [.2,.4,.6,.8,1,1.2,1.4,1.6,1.8,2]
